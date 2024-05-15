@@ -7,4 +7,4 @@ router.use("/api", apiRoutes);
 router.use("/", htmlRoutes);
 
 // Export router
-module.exports = router
+module.exports = router;
