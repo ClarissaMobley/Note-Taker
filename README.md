@@ -4,7 +4,7 @@
 
 ## Description
 
-A express.js application that allows users to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
+An express.js application that allows users to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
 ## Table of Contents
 
